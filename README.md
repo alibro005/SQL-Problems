@@ -12,5 +12,7 @@
 | 511         | Game Play Analysis I                           | [index.sql](./Problem_511/index.sql)   | [Link](https://leetcode.com/problems/game-play-analysis-i/) |
 | 577         | Employee Bonus                                 | [index.sql](./Problem_577/index.sql)   | [Link](https://leetcode.com/problems/employee-bonus/) |
 | 584         | Find Customer Referee                          | [index.sql](./Problem_584/index.sql)   | [Link](https://leetcode.com/problems/find-customer-referee/) |
+| 586         | Customer Placing the Largest Number of Orders | [index.sql](./Problem_586/index.sql)   | [Link](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) |
+
 | 595         | Big Countries                                  | [index.sql](./Problem_595/index.sql)   | [Link](https://leetcode.com/problems/big-countries/) |
 | 596         | Classes More Than 5 Students                   | [index.sql](./Problem_596/index.sql)   | [Link](https://leetcode.com/problems/classes-more-than-5-students/) |
