@@ -17,4 +17,7 @@
 | 596         | Classes More Than 5 Students                     | [index.sql](./Problem_596/index.sql)  | [Link](https://leetcode.com/problems/classes-more-than-5-students/)                     |
 | 610         | Triangle Judgement                               | [index.sql](./Problem_610/index.sql)  | [Link](https://leetcode.com/problems/triangle-judgement/)                               |
 | 620         | Not Boring Movies                                | [index.sql](./Problem_620/index.sql)  | [Link](https://leetcode.com/problems/not-boring-movies/)                                |
+| 1068        | Product Sales Analysis I                         | [index.sql](./Problem_1068/index.sql)  | [Link](https://leetcode.com/problems/product-sales-analysis-i/) |
+| 1069        | Product Sales Analysis II                        | [index.sql](./Problem_1069/index.sql)  | [Link](https://leetcode.com/problems/product-sales-analysis-ii/) |
+| 1148        | Article Views I                                  | [index.sql](./Problem_1148/index.sql)  | [Link](https://leetcode.com/problems/article-views-i/) |
 | 2356        | Number of Unique Subjects Taught by Each Teacher | [index.sql](./Problem_2356/index.sql) | [Link](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) |
